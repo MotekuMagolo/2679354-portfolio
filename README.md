@@ -1,4 +1,4 @@
-# 267935408 Portfolio Lab
+# 2679354 Portfolio Lab
 
 A semantic HTML portfolio demonstrating web development fundamentals.
 
@@ -8,8 +8,6 @@ A semantic HTML portfolio demonstrating web development fundamentals.
 - `student-info.txt` - Student identification
 - `report.md` - Learning reflection
 
-## 🚀 Live Demo
-[View deployed site](https://motekumagolo.github.io/267935408-portfolio/)
 
 ## Skills Demonstrated
 - Semantic HTML5
